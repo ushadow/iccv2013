@@ -1,8 +1,8 @@
 #TeXlipse project settings
-#Sun Apr 07 22:58:00 EDT 2013
+#Mon Apr 08 11:21:34 EDT 2013
 markTmpDer=true
 builderNum=2
-outputDir=pdf
+outputDir=pdf/
 makeIndSty=
 bibrefDir=
 outputFormat=pdf
@@ -11,4 +11,4 @@ mainTexFile=iccv2013.tex
 outputFile=iccv2013.pdf
 langSpell=en
 markDer=true
-srcDir=src
+srcDir=src/

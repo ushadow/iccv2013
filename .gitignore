@@ -2,3 +2,5 @@ tmp/*
 pdf/*
 !tmp/.gitkeep
 !pdf/.gitkeep
+*.gz
+*.brf
